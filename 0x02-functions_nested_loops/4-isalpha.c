@@ -3,7 +3,7 @@
 /**
   *_isalpha - checks for alphabetic character
   *@c: the character to be checkede
-  *Return: just another day at ALX SE 
+  *Return: just another day at ALX SE
   *
   */
 
