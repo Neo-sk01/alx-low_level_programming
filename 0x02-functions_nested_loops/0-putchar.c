@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include "main.h"
 /**
 *main - print _putchar
@@ -40,7 +39,5 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-
->>>>>>> 01a779a9a4dd7c9e7c4c70cd396a702668c230be
 
 }
