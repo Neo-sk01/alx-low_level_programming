@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 /**
 *main - Entry point
@@ -18,5 +20,5 @@ putchar(n);
 n++;
 }
 putchar('\n');
-return(0);
+return (0);
 }
