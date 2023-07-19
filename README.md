@@ -1,2 +1,1 @@
-My low-level C lang repo (laptop)
-
+ 0x02-functions_nested_loops
