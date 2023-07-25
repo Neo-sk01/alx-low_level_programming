@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * * reset to 98 = a pointer that takes an int as param and points to the value of 9a8
- * and updates the value it points to to 98
+ *  reset to 98 = a pointer that takes an int as param and points to the value of 98
+ * updates the value it points to to 98
  * @n: input
  * Return: n
  */
